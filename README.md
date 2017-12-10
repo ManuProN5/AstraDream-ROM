@@ -1,3 +1,4 @@
-# Astra-Dream-ROM
-My ROM Repository
-This is what I've port done, to get N7 base frameworks and lib combination working in Samsung galaxy Note 4 Snapdragon
+# Astra Dream ROM Project [For Samsung Phones]
+My ROM Repository:
+
+In this Branch you will find the neccesaries files wich I used to make N7 software compatible with my Note 4
